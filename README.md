@@ -67,9 +67,12 @@ Student ID: 11029581
 
 Screenshots
 
-Home Page
+Home page
+![Screenshot 2023-11-28 204353](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/83cdff5b-d626-440f-b232-b7cbeb8e00a5)
 
-![Screenshot 2023-11-28 094430](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/7c43cced-34ee-4bbe-89ee-4ff3e3f2dd66)
+
+
+![Screenshot 2023-11-28 204416](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/d8c7fd56-0684-461b-922d-bd1eb76b8076)
 
 Contacts page
 ![Screenshot 2023-11-28 111056](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/c8594509-c769-43df-abd2-92c496fb86ff)

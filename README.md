@@ -75,22 +75,28 @@ Home page
 ![Screenshot 2023-11-28 204416](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/d8c7fd56-0684-461b-922d-bd1eb76b8076)
 
 Contacts page
-![Screenshot 2023-11-28 111056](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/c8594509-c769-43df-abd2-92c496fb86ff)
+![Screenshot 2023-11-28 211159](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/8da1b2fb-bfdf-4a6b-b6bf-754f952175ae)
 
 
 Faculty page
-![Screenshot 2023-11-28 111427](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/19c72e02-de33-499b-8847-e1aba35ef97f)
+![Screenshot 2023-11-28 212457](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/ff3df2be-5ddb-410e-ae8e-d8daba17cbbd)
 
 About page
-![Screenshot 2023-11-28 112032](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/406a21d4-90fa-4f75-92ce-45222ed52218)
+![Screenshot 2023-11-28 210340](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/e8178c54-d27b-4199-8bec-4301f0ba2d13)
 
 
+![Screenshot 2023-11-28 210357](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/644e65c5-9c9a-43cd-a391-af4076b4b160)
 
 Events page
 ![Screenshot 2023-11-28 111833](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/c10eb9ed-9f55-428d-bf69-f3fb5a3154d5)
 
 Courses page
-![Screenshot 2023-11-28 111633](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/9d40373b-a1eb-44c8-99c4-7d4a10a69ce8)
+
+
+![Screenshot 2023-11-28 212528](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/b0f073f0-454f-461c-92c3-db6431307da6)
+
+
+![Screenshot 2023-11-28 212548](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/b4ad404a-900c-48ca-ab9c-dda131c45885)
 
 Resources page
 ![Screenshot 2023-11-28 111734](https://github.com/DevSavante/11029581_DCIT205/assets/151789625/d6b90fe4-c8af-48ef-8c34-91c2e3fb6e37)
